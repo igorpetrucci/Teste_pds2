@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1541623945 source:c:\users\captain9\documents\pds2\tp_pds2\main.cpp
+	<iostream>
+	"Openarquivo.h"
+
+1542260762 c:\users\captain9\documents\pds2\tp_pds2\include\openarquivo.h
+	<fstream>
+	<string>
+	"Sensor.h"
+	"Data.h"
+	"Hora.h"
+	"Excecao.h"
+
+1542290159 source:c:\users\captain9\documents\pds2\tp_pds2\src\openarquivo.cpp
+	"Openarquivo.h"
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<cstdlib>
+
+1542251491 source:c:\users\captain9\documents\pds2\tp_pds2\src\data.cpp
+	<iostream>
+	<sstream>
+	"Data.h"
+
+1542251076 c:\users\captain9\documents\pds2\tp_pds2\include\data.h
+	<string>
+
+1541618176 c:\users\captain9\documents\pds2\tp_pds2\include\sensor.h
+
+1541618238 source:c:\users\captain9\documents\pds2\tp_pds2\src\sensor.cpp
+	"Sensor.h"
+
+1542251564 c:\users\captain9\documents\pds2\tp_pds2\include\hora.h
+	<string>
+
+1542255600 source:c:\users\captain9\documents\pds2\tp_pds2\src\hora.cpp
+	<iostream>
+	<sstream>
+	"Hora.h"
+
+1542259911 source:c:\users\captain9\documents\pds2\tp_pds2\src\excecao.cpp
+	"Excecao.h"
+
+1542241438 c:\users\captain9\documents\pds2\tp_pds2\include\excecao.h
+	<iostream>
+	<string>
+
